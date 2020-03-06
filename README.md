@@ -1,4 +1,4 @@
-# Dango REST API.
+# Django REST API.
 
 ## Technologies
 * python 3.8.0
