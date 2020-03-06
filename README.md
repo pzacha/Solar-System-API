@@ -1,4 +1,5 @@
-# Django rentals API.
+# Django REST API.
+>Simple API containing data about solar system planets.
 
 ## Technologies
 * python 3.8.0
