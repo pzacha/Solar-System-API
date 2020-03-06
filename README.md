@@ -1,4 +1,4 @@
-# Django REST API.
+# Django rentals api.
 
 ## Technologies
 * python 3.8.0
