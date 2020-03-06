@@ -1,4 +1,4 @@
-# Django rentals api.
+# Django rentals API.
 
 ## Technologies
 * python 3.8.0
